@@ -1,4 +1,4 @@
-# List products
+# Products List
 Just a little app to make a list of products using react, redux and redux-thunk
 
 ## Available Scripts
