@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "Arroz chino",
+      "precio": "6500",
+      "id": 8
+    },
+    {
+      "nombre": "Pasta alfredo",
+      "precio": "1300",
+      "id": 9
+    },
+    {
+      "nombre": "Pasta Carbonara",
+      "precio": "4562",
+      "id": 10
+    }
+  ]
+}
